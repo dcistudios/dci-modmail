@@ -122,26 +122,7 @@ transcripts:
 
 ---
 
-## 🚀 Self-Hosting (Coming Soon)
-
-Full setup documentation will be released alongside the bot. The general process will be:
-```bash
-# 1. Clone the repository
-git clone https://github.com/DCIStudios/dci-modmail.git
-
-# 2. Install dependencies
-npm install
-
-# 3. Configure your environment
-cp .env.example .env
-
-# 4. Configure the bot
-cp config.yml.example config.yml
-
-# 5. Start the bot
-node src/index.js
-```
-
+## 🚀 Self-Hosting (Coming Soon) 
 ---
 
 ## 🧠 Tech Stack
