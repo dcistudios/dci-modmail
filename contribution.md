@@ -55,6 +55,7 @@ Before contributing, make sure you have the following installed:
 
 # Copy and configure your environment
 ```cp .env.example .env```
+
 ```cp config.yml.example config.yml```
 ---
 🛠 How to Contribute
