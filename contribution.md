@@ -44,19 +44,18 @@ Before contributing, make sure you have the following installed:
 | npm | 8 or higher |
 | Git | Latest stable |
 
-```bash
 # Fork the repository, then clone your fork
-git clone https://github.com/dcistudios/dci-modmail.git```
+```git clone https://github.com/dcistudios/dci-modmail.git```
 
 # Navigate into the project
-cd dci-modmail
+```cd dci-modmail```
 
 # Install dependencies
-npm install
+```npm install```
 
 # Copy and configure your environment
-cp .env.example .env
-cp config.yml.example config.yml
+```cp .env.example .env```
+```cp config.yml.example config.yml```
 ---
 🛠 How to Contribute
 	1.	Fork the repository
@@ -104,4 +103,3 @@ If you have questions about contributing that aren’t answered here, feel free 
 <p align="center">
 <b>DCI Studios — Architecting Excellence.</b>
 </p>
-```
