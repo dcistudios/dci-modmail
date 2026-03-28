@@ -128,7 +128,7 @@ transcripts:
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,github,linux" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,github,linux,json.git" />
 </p>
 
 | Technology | Purpose |
